@@ -1,0 +1,98 @@
+
+
+
+/* Navbar */
+#myNavbar {
+    background-color: #E27396;
+}
+
+#navbar-nav .nav-link {
+    color: #000;
+}
+
+/* About Me */
+#about {
+    
+    background-color: 
+;
+    padding: 50px 0;
+}
+
+#text-title {
+    color: #333;
+}
+
+/* Social Media Links */
+#social-media-links {
+    margin-top: 20px;
+}
+
+#social-media-links .col-3 {
+    text-align: center;
+
+}
+
+
+/* Project Section */
+#myProjects {
+    margin-top: 20px;
+    background-color: #;
+}
+
+.card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    margin-bottom: 20px;
+    height: 400px; 
+}
+
+.card.project1 {
+    background-image: url('./images/project1.png');
+    background-color: #E27396;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.card.project2 {
+    background-image: url('./images/project2.png');
+    background-color: #E27396;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card.project3 {
+    background-image: url('./images/project3.png');
+    background-color: #E27396;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card-img-container {
+    height: 70%; 
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-description {
+    margin-bottom: 10px; 
+}
+
+.card-meta {
+    margin-top: 10px; 
+}
+
